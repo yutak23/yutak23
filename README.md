@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm yutak23</h1>
-<h3 align="center">Web application developer, long-time use JavaScript. I develop in Vue + Express for work and SvelteKit for personal development.</h3>
+<h3 align="center">Web application developer, long-time use JavaScript and TypeScript. I develop in Vue + Express for work and SvelteKit for personal development.</h3>
 
 <p align="left">
   <a href="https://github.com/yutak23/yutak23/">
