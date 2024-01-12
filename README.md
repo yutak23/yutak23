@@ -19,9 +19,7 @@
 <p align="left"> 
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutak23&layout=compact&show_icons=true" />
   <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=yutak23&show_icons=ture" />
-  
-<img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=yutak23&" alt="yutak23" />
-
+  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=yutak23" alt="yutak23" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yutak23)](https://github.com/ryo-ma/github-profile-trophy)
